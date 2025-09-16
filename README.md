@@ -74,6 +74,6 @@ Exploring opportunities in: **AI • Data Science • Full Stack Development**
 
 <p align="center">
   <a href="https://leetcode.com/u/farhan2806/">
-    <img src="https://leetcard.jacoblin.cool/Farhan?theme=dark&font=ABeeZee" />
+    <img src="https://leetcard.jacoblin.cool/Farhan2806?theme=dark&font=ABeeZee" />
   </a>
 </p>
