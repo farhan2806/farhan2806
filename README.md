@@ -61,11 +61,7 @@ Exploring opportunities in: **AI • Data Science • Full Stack Development**
 </p>
 
 ---
-## 🧩 LeetCode Journey  
 
-<p align="center">
-  <a href="https://leetcode.com/u/Farhan2806/">
-    <img src="https://leetcard.jacoblin.cool/Farhan
 
 ## 📊 GitHub Stats  
 
@@ -74,5 +70,10 @@ Exploring opportunities in: **AI • Data Science • Full Stack Development**
 </p>
 
 ---
+## 🧩 LeetCode Journey  
+
+<p align="center">
+  <a href="(https://leetcode.com/u/farhan2806/)">
+    <img src="https://leetcard.jacoblin.cool/Farhan
 
 
