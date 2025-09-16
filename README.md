@@ -70,10 +70,10 @@ Exploring opportunities in: **AI • Data Science • Full Stack Development**
 </p>
 
 ---
-## 🧩 LeetCode Journey  
+## 🧩 LeetCode Journey
 
 <p align="center">
-  <a href="(https://leetcode.com/u/farhan2806/)">
-    <img src="https://leetcard.jacoblin.cool/Farhan
-
-
+  <a href="https://leetcode.com/u/farhan2806/">
+    <img src="https://leetcard.jacoblin.cool/Farhan?theme=dark&font=ABeeZee" />
+  </a>
+</p>
