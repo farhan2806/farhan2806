@@ -1,6 +1,6 @@
 # Hi, I’m Farhan 👋  
 
-**Aspiring Machine Learning Engineer & Full-Stack Developer**  
+**Aspiring Data Scientist & Machine Learning Engineer**  
 Passionate about building intelligent systems, scalable web apps, and impactful ML solutions.  
 Exploring opportunities in: **AI • Data Science • Full Stack Development**
 
