@@ -2,7 +2,7 @@
 
 **Aspiring Data Scientist & Machine Learning Engineer**  
 Passionate about building intelligent systems, scalable web apps, and impactful ML solutions.  
-Exploring opportunities in: **AI • Data Science • Full Stack Development**
+Exploring opportunities in: **AI • Data Science • Computer Vision**
 
 ---
 
