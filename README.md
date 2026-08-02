@@ -8,7 +8,7 @@ Exploring opportunities in: **AI • Data Science • Computer Vision**
 
 ## 🌟 About Me  
 
-- 🎓 B.Tech in Computer Science & Engineering @ VIT Bhopal (CGPA: 8.27, Expected 2026)  
+- 🎓 B.Tech in Computer Science & Engineering @ VIT Bhopal (CGPA: 8.37, Expected 2026)  
 - 📊 Experienced in **Machine Learning, Deep Learning, and Data Visualization**  
 - 💻 Skilled in **Full-Stack Development** with hands-on projects  
 - 🚀 Always curious to solve real-world problems through technology  
